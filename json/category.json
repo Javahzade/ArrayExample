@@ -1,0 +1,202 @@
+[
+    {
+       "id": 39,
+       "count": 10,
+       "description": "",
+       "link": "https://easyphonefix.net/nproject-category/apple/",
+       "name": "Apple",
+       "slug": "apple",
+       "taxonomy": "nproject-category",
+       "parent": 0,
+       "meta": [],
+       "_links": {
+          "self": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject-category/39"
+             }
+          ],
+          "collection": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject-category"
+             }
+          ],
+          "about": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/taxonomies/nproject-category"
+             }
+          ],
+          "wp:post_type": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject?nproject-category=39"
+             }
+          ],
+          "curies": [
+             {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+             }
+          ]
+       }
+    },
+    {
+       "id": 40,
+       "count": 5,
+       "description": "",
+       "link": "https://easyphonefix.net/nproject-category/lg/",
+       "name": "LG",
+       "slug": "lg",
+       "taxonomy": "nproject-category",
+       "parent": 0,
+       "meta": [],
+       "_links": {
+          "self": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject-category/40"
+             }
+          ],
+          "collection": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject-category"
+             }
+          ],
+          "about": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/taxonomies/nproject-category"
+             }
+          ],
+          "wp:post_type": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject?nproject-category=40"
+             }
+          ],
+          "curies": [
+             {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+             }
+          ]
+       }
+    },
+    {
+       "id": 42,
+       "count": 4,
+       "description": "",
+       "link": "https://easyphonefix.net/nproject-category/motorolla/",
+       "name": "Motorolla",
+       "slug": "motorolla",
+       "taxonomy": "nproject-category",
+       "parent": 0,
+       "meta": [],
+       "_links": {
+          "self": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject-category/42"
+             }
+          ],
+          "collection": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject-category"
+             }
+          ],
+          "about": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/taxonomies/nproject-category"
+             }
+          ],
+          "wp:post_type": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject?nproject-category=42"
+             }
+          ],
+          "curies": [
+             {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+             }
+          ]
+       }
+    },
+    {
+       "id": 43,
+       "count": 5,
+       "description": "",
+       "link": "https://easyphonefix.net/nproject-category/other-devices/",
+       "name": "Other devices",
+       "slug": "other-devices",
+       "taxonomy": "nproject-category",
+       "parent": 0,
+       "meta": [],
+       "_links": {
+          "self": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject-category/43"
+             }
+          ],
+          "collection": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject-category"
+             }
+          ],
+          "about": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/taxonomies/nproject-category"
+             }
+          ],
+          "wp:post_type": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject?nproject-category=43"
+             }
+          ],
+          "curies": [
+             {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+             }
+          ]
+       }
+    },
+    {
+       "id": 41,
+       "count": 5,
+       "description": "",
+       "link": "https://easyphonefix.net/nproject-category/samsung/",
+       "name": "Samsung",
+       "slug": "samsung",
+       "taxonomy": "nproject-category",
+       "parent": 0,
+       "meta": [],
+       "_links": {
+          "self": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject-category/41"
+             }
+          ],
+          "collection": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject-category"
+             }
+          ],
+          "about": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/taxonomies/nproject-category"
+             }
+          ],
+          "wp:post_type": [
+             {
+                "href": "https://easyphonefix.net/wp-json/wp/v2/nproject?nproject-category=41"
+             }
+          ],
+          "curies": [
+             {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+             }
+          ]
+       }
+    }
+ ]
